@@ -3,7 +3,6 @@
 
 ---
 
-### 🧠 About Me
 Graduate of the Faculty of Artificial Intelligence, Machine Intelligence Department  
 
 📫 Contact: **mohamedadel.dev@gmail.com**
